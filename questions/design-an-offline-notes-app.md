@@ -64,3 +64,4 @@ The editor and the list read and write the local database only. Every edit succe
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-an-offline-notes-app) ends its storage module with an offline notes design, after lessons on the outbox, delta sync, conflict resolution, and local schema migrations.
 - [Local storage](../concepts/local-storage.md) covers the database and its migrations.
+- Free article: [CRDTs Explained: Conflict-Free Replicated Data Types for Eventual Consistency](https://www.designgurus.io/blog/crdts-for-eventual-consistency?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-an-offline-notes-app), a deeper look at merging edits made offline.

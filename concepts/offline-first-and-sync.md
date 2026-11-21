@@ -61,3 +61,4 @@ An interviewer wants the rule and its cost, for example: "Notes merge field by f
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync) has a module on storage, caching, and offline behavior, ending with an offline notes design with sync.
 - [Design an offline notes app](../questions/design-an-offline-notes-app.md) applies this page to one question.
 - [Local storage](local-storage.md) covers where the store and the outbox live.
+- Free article: [CRDTs Explained: Conflict-Free Replicated Data Types for Eventual Consistency](https://www.designgurus.io/blog/crdts-for-eventual-consistency?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync), one approach to merging conflicting edits.

@@ -101,6 +101,16 @@ Usually not. The first question to ask is whether the design covers the applicat
 
 An engineer who ships mobile features every week usually needs about four weeks at six hours a week. Most of that time goes to speaking designs aloud against a clock, because the knowledge is already there and the pacing is not.
 
+## Free reading on DesignGurus.io
+
+- [Mobile System Design Interview: The 20 Most Asked Questions](https://www.designgurus.io/blog/mobile-system-design-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the common questions, with notes on what each one tests.
+- [How Do You Prepare for a Mobile System Design Interview?](https://www.designgurus.io/answers/detail/how-do-you-prepare-for-a-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): a short preparation outline.
+- [Mobile vs Backend System Design Interview: What Changes?](https://www.designgurus.io/answers/detail/mobile-vs-backend-system-design-interview-what-changes?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): how the mobile round differs from the backend round.
+- [What Is the iOS System Design Interview Like?](https://www.designgurus.io/answers/detail/what-is-the-ios-system-design-interview-like?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the round from the iOS side.
+- [What Is the Android System Design Interview Like?](https://www.designgurus.io/answers/detail/what-is-the-android-system-design-interview-like?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the round from the Android side.
+- [Apple iOS System Design Interview Expectations](https://www.designgurus.io/answers/detail/apple-ios-system-design-interview-expectations?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): what one company expects in its iOS design round.
+- [What Questions Are Asked in a Mobile System Design Interview?](https://www.designgurus.io/answers/detail/what-questions-are-asked-in-a-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): a short list of questions grouped by type.
+
 ## Go deeper
 
 This repository gives the short version of each topic. [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme) teaches the full version: the five-step method with graded sample answers, client architecture, networking, storage and sync, security and shipping, complete app case studies, library and SDK questions, and a full mock interview.
