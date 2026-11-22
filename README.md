@@ -134,6 +134,8 @@ Related courses and guides:
 - [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview) is the sibling guide for web clients.
 - [Grokking System Design](https://github.com/design-gurus/grokking-system-design) is the sibling guide for the backend round.
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new pages are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
