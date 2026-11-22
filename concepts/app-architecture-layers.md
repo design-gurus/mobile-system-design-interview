@@ -55,4 +55,6 @@ Two habits lose this step: a template diagram that would fit any app, and a vagu
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-architecture-layers) has a full module on client architecture, including modules, navigation, dependency injection, and VIPER and Clean Architecture.
+- Lesson: [The Four Layers of a Mobile App](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/the-four-layers-of-a-mobile-app?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-architecture-layers), in Grokking Modern Mobile System Design Interview
+- Lesson: [Choosing an Architecture Pattern](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/choosing-an-architecture-pattern?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-architecture-layers), in Grokking Modern Mobile System Design Interview
 - [Mobile vs backend system design](../cheat-sheets/mobile-vs-backend-system-design.md) shows where these layers sit beside a server design.

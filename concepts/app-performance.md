@@ -61,4 +61,6 @@ A performance claim needs a number from real devices. Both platforms report laun
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-performance) has a performance module covering startup, lists and memory, threading, and a capstone on fixing a slow feed.
+- Lesson: [App Startup](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/app-startup?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-performance), in Grokking Modern Mobile System Design Interview
+- Lesson: [Lists, Images, and Memory](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/lists-images-and-memory?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-app-performance), in Grokking Modern Mobile System Design Interview
 - [Background work and battery](background-work-and-battery.md) covers the fifth measurement, energy use.

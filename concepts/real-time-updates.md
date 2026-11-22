@@ -57,6 +57,8 @@ When the app comes back to the foreground, it should not trust what is on screen
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-real-time-updates) compares these transports in its networking module and applies them to chat, ride hailing, and live streams.
+- Lesson: [Real Time Transports](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/real-time-transports?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-real-time-updates), in Grokking Modern Mobile System Design Interview
+- Lesson: [Stock Tickers and Live Comment Streams](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/stock-tickers-and-live-comment-streams?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-real-time-updates), in Grokking Modern Mobile System Design Interview
 - [Push notifications](push-notifications.md) covers the background channel.
 - [Design a chat app](../questions/design-a-chat-app.md) uses a WebSocket with push as the fallback.
 - Free answer: [What Is Polling vs Long-Polling vs Webhooks?](https://www.designgurus.io/answers/detail/what-is-polling-vs-long-polling-vs-webhooks?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-real-time-updates), a comparison of three delivery methods.

@@ -57,6 +57,8 @@ Inserting new posts at the top moves the content under the user's finger. The us
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-pagination-and-feeds) covers pagination in its networking module and applies it in the news feed case study.
+- Lesson: [Pagination](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/pagination?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-pagination-and-feeds), in Grokking Modern Mobile System Design Interview
+- Lesson: [Pagination from the Consumer's View](https://www.designgurus.io/course-play/grokking-modern-api-design-interview/doc/pagination-from-the-consumers-view?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-pagination-and-feeds), in Grokking Modern API Design Interview
 - [Design a news feed app](../questions/design-a-news-feed-app.md) uses this page in a full question.
 - [Grokking Modern API Design Interview](https://www.designgurus.io/course/grokking-modern-api-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-pagination-and-feeds) covers pagination from the server side.
 - Free answer: [Offset vs Cursor Pagination: Trade-offs and When to Use Each](https://www.designgurus.io/answers/detail/pagination-patterns-offset-vs-cursor?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-pagination-and-feeds), a focused comparison of the two patterns.

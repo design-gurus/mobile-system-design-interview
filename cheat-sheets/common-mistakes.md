@@ -66,4 +66,6 @@ When a candidate notices a mistake in the middle of the round, saying so is a po
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=cheat-sheets-common-mistakes) teaches the signals interviewers record and grades three sample answers against them.
+- Lesson: [Interview Signals and Eight Common Mistakes](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/signals-and-the-eight-ways-to-lose-them?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=cheat-sheets-common-mistakes), in Grokking Modern Mobile System Design Interview
+- Lesson: [Capstone: Grading Three Answers](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/capstone-grading-three-answers?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=cheat-sheets-common-mistakes), in Grokking Modern Mobile System Design Interview
 - [The five-step method](../framework.md) gives the time budget these checkpoints come from.

@@ -56,5 +56,7 @@ A **migration** is the code that changes existing tables when a new app version 
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-local-storage) covers on-device storage, the client data model, caching, and migrations in its storage module.
+- Lesson: [On Device Storage Options](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/on-device-storage-options?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-local-storage), in Grokking Modern Mobile System Design Interview
+- Lesson: [Local Schema Migrations](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/local-schema-migrations?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-local-storage), in Grokking Modern Mobile System Design Interview
 - [Offline-first and sync](offline-first-and-sync.md) explains how these stores are kept in step with the server.
 - [Security and privacy](security-and-privacy.md) covers the secure store in more detail.

@@ -53,5 +53,7 @@ Scheduled work can carry conditions. Typical ones are "only on an unmetered netw
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-background-work-and-battery) covers background execution in its storage module and battery, data, and low-end devices in its performance module.
+- Lesson: [Background Execution](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/background-execution?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-background-work-and-battery), in Grokking Modern Mobile System Design Interview
+- Lesson: [Battery, Data, and Low End Devices](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/battery-data-and-low-end-devices?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-background-work-and-battery), in Grokking Modern Mobile System Design Interview
 - [Push notifications](push-notifications.md) covers the push wake-up in detail.
 - [iOS vs Android differences](../cheat-sheets/ios-vs-android-differences.md) lists the platform tools side by side.

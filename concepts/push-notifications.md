@@ -60,5 +60,6 @@ A notification should open the exact screen it describes. This is done with a **
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-push-notifications) covers push in its networking and background execution lessons and designs a push notification SDK.
+- Lesson: [Push Notification SDK](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/push-notification-sdk?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-push-notifications), in Grokking Modern Mobile System Design Interview
 - [Real-time updates](real-time-updates.md) compares push with the transports used while the app is open.
 - [Background work and battery](background-work-and-battery.md) explains what a silent push is allowed to do.

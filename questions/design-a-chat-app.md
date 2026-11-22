@@ -60,6 +60,8 @@ The conversation screen observes the `messages` table. A connection manager owns
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-chat-app) includes a complete chat app case study with ordering, receipts, and media.
+- Lesson: [Chat App](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/chat-app?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-chat-app), in Grokking Modern Mobile System Design Interview
+- Lesson: [Interview Question: Design the API Behind a Messaging App](https://www.designgurus.io/course-play/grokking-modern-api-design-interview/doc/interview-question-design-the-api-behind-a-messaging-app?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-chat-app), in Grokking Modern API Design Interview
 - [Offline-first and sync](../concepts/offline-first-and-sync.md) explains the outbox this design depends on.
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-chat-app) designs the chat backend.
 - Free article: [How to Design a Real-Time Chat Application](https://www.designgurus.io/blog/design-chat-application?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-chat-app), the server side of the same question.

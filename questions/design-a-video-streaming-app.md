@@ -56,6 +56,7 @@ A player screen and its view model sit above a playback controller. The controll
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-video-streaming-app) covers stories and short video, and live streams and tickers, as case studies.
+- Lesson: [Stories and Short Video](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/stories-and-short-video?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-video-streaming-app), in Grokking Modern Mobile System Design Interview
 - [App performance](../concepts/app-performance.md) covers the memory and frame limits a player must respect.
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-video-streaming-app) designs the video backend and delivery network.
 - Free article: [Designing a Scalable Video Streaming Platform Like YouTube and Netflix](https://www.designgurus.io/blog/design-video-streaming-platform?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-video-streaming-app), the encoding and delivery pipeline.

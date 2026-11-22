@@ -69,4 +69,6 @@ Step 5 of [the five-step method](../framework.md) ends with shipping. A complete
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-release-and-feature-flags) covers releases, forced upgrades, feature flags, kill switches, and mobile observability, and designs a feature flag SDK.
+- Lesson: [Releases, Forced Upgrade, and Versioning](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/releases-forced-upgrade-and-versioning?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-release-and-feature-flags), in Grokking Modern Mobile System Design Interview
+- Lesson: [Feature Flags, Kill Switches, and Rollouts](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/feature-flags-kill-switches-and-rollouts?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-release-and-feature-flags), in Grokking Modern Mobile System Design Interview
 - [Common mistakes](../cheat-sheets/common-mistakes.md) explains why skipping this step costs a signal.

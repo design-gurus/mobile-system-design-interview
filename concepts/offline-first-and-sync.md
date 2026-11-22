@@ -59,6 +59,9 @@ An interviewer wants the rule and its cost, for example: "Notes merge field by f
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync) has a module on storage, caching, and offline behavior, ending with an offline notes design with sync.
+- Lesson: [Offline First](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/offline-first?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync), in Grokking Modern Mobile System Design Interview
+- Lesson: [Optimistic Writes and the Outbox](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/optimistic-writes-and-the-outbox?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync), in Grokking Modern Mobile System Design Interview
+- Lesson: [Sync and Conflict Resolution](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/sync-and-conflict-resolution?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync), in Grokking Modern Mobile System Design Interview
 - [Design an offline notes app](../questions/design-an-offline-notes-app.md) applies this page to one question.
 - [Local storage](local-storage.md) covers where the store and the outbox live.
 - Free article: [CRDTs Explained: Conflict-Free Replicated Data Types for Eventual Consistency](https://www.designgurus.io/blog/crdts-for-eventual-consistency?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=concepts-offline-first-and-sync), one approach to merging conflicting edits.

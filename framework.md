@@ -67,6 +67,8 @@ The final sentence names the numbers to watch after launch, such as crash rate a
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=framework) teaches this method with three graded sample answers and a full mock interview.
+- Lesson: [The Five Step Method and the 45 Minute Budget](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/the-five-step-method-and-the-45-minute-budget?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=framework), in Grokking Modern Mobile System Design Interview
+- Lesson: [Scoping the Question](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/scoping-the-question?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=framework), in Grokking Modern Mobile System Design Interview
 - [Common mistakes](cheat-sheets/common-mistakes.md) lists the errors that break the time budget.
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=framework) teaches the matching method for the backend round.
 - Free answer: [How Do You Prepare for a Mobile System Design Interview?](https://www.designgurus.io/answers/detail/how-do-you-prepare-for-a-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=framework), a short preparation outline.

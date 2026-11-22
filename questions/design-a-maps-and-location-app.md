@@ -61,5 +61,7 @@ Each reading carries an accuracy radius, which the map draws as a circle, and a 
 ## Go deeper
 
 - [Grokking Modern Mobile System Design Interview](https://www.designgurus.io/course/grokking-modern-mobile-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-maps-and-location-app) covers location, battery, and live tracking in its ride hailing and food delivery case studies.
+- Lesson: [Ride Hailing](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/ride-hailing?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-maps-and-location-app), in Grokking Modern Mobile System Design Interview
+- Lesson: [Food Delivery](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/food-delivery?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=questions-design-a-maps-and-location-app), in Grokking Modern Mobile System Design Interview
 - [Background work and battery](../concepts/background-work-and-battery.md) covers background location limits.
 - [Design a ride hailing app](design-a-ride-hailing-app.md) is the closest related question.

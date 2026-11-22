@@ -101,6 +101,18 @@ Usually not. The first question to ask is whether the design covers the applicat
 
 An engineer who ships mobile features every week usually needs about four weeks at six hours a week. Most of that time goes to speaking designs aloud against a clock, because the knowledge is already there and the pacing is not.
 
+## Course lessons to start with
+
+- [The Five Step Method and the 45 Minute Budget](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/the-five-step-method-and-the-45-minute-budget?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the method and the time split for the whole round, in Grokking Modern Mobile System Design Interview
+- [Scoping the Question](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/scoping-the-question?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): how to narrow an open question in the first minutes, in Grokking Modern Mobile System Design Interview
+- [The Four Layers of a Mobile App](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/the-four-layers-of-a-mobile-app?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the client architecture that every answer builds on, in Grokking Modern Mobile System Design Interview
+- [The Mobile Network](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/the-mobile-network?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): how an unreliable network shapes client design, in Grokking Modern Mobile System Design Interview
+- [Offline First](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/offline-first?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): how to keep an app usable without a connection, in Grokking Modern Mobile System Design Interview
+- [Sync and Conflict Resolution](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/sync-and-conflict-resolution?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): how to merge edits made on several devices, in Grokking Modern Mobile System Design Interview
+- [News Feed](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/news-feed?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): a complete case study for a paginated feed, in Grokking Modern Mobile System Design Interview
+- [Chat App](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/chat-app?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): a complete case study for a real-time app, in Grokking Modern Mobile System Design Interview
+- [Capstone: Grading Three Answers](https://www.designgurus.io/course-play/grokking-modern-mobile-system-design-interview/doc/capstone-grading-three-answers?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): three sample answers graded against the interview signals, in Grokking Modern Mobile System Design Interview
+
 ## Free reading on DesignGurus.io
 
 - [Mobile System Design Interview: The 20 Most Asked Questions](https://www.designgurus.io/blog/mobile-system-design-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=mobile-system-design-interview&utm_content=readme): the common questions, with notes on what each one tests.
